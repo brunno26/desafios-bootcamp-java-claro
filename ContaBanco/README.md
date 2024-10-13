@@ -1,18 +1,28 @@
-## Getting Started
+# Desafio Conta Bancária
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 🚀 Sobre o desafio
+Colocar em prática os fundamentos da linguagem (Java) e noções de sintaxe.
 
-## Folder Structure
+## Instruções
 
-The workspace contains two folders by default, where:
+    1. Criar a classe Conta Terminal,
+    2. Importar a Classe Scanner,
+    3. Exibir as mensagens para o usuário,
+    4. Obter pela Classe Scanner os valores digitados no terminal,
+    5. Exibir a mensagem da conta criada.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tecnologias Utilizadas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+## Conecte-se Comigo
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunno26)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gomes-102a6746/)
