@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class ParametrosInvalidosException extends Exception {
     public ParametrosInvalidosException(String mensagem) {
-        super(mensagem);
+
     }
 }
 
@@ -15,7 +15,6 @@ public class DesafioControleFluxo {
 
         System.out.println("Informe o segundo parâmetro: ");
         int parametroDois = terminal.nextInt();
-
         try {
             // Chamando o método contendo a lógica de contagem
             contar(parametroUm, parametroDois);
